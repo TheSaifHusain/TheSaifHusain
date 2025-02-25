@@ -31,13 +31,22 @@
 
 <p align="center">
 <a href="https://github.com/thesaifhusain">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesaifhusain&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Saif Husain" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesaifhusain&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </a>
 
 <a href="https://github.com/thesaifhusain">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesaifhusain&show_icons=true&theme=merko&locale=en" alt="Saif Husain" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesaifhusain&show_icons=true&theme=merko&locale=en" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/thesaifhusain">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thesaifhusain&theme=radical" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/thesaifhusain">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesaifhusain&theme=github_dark" alt="Profile Details" />
 </a>
 </p>
+
 
 
 ---
